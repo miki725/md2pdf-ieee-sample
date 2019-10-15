@@ -1,0 +1,14 @@
+\hypertarget{basic-title}{%
+\section{Basic Title}\label{basic-title}}
+
+\hypertarget{very-important-subtitle}{%
+\subsection{Very Important Subtitle}\label{very-important-subtitle}}
+
+\textbf{Super} amazing article \emph{here} about
+\href{https://www.pexels.com/search/cat/}{cats}.
+
+\begin{figure}
+\centering
+\includegraphics{cat.jpg}
+\caption{\href{http://bit.ly/2pilsGS}{amazing cat}}
+\end{figure}

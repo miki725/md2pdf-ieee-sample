@@ -1,0 +1,10 @@
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Super} amazing article \emph{here} about
+\href{https://www.pexels.com/search/cat/}{cats}.
+
+\begin{figure}
+\centering
+\includegraphics{cat.jpg}
+\caption{\href{http://bit.ly/2pilsGS}{amazing cat}}
+\end{figure}
